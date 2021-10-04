@@ -6,6 +6,6 @@
 
 - 💬 Ask me about CP, DSA,  ML
 
-- ⚡ Fun fact: I love anime and comics!!!
+- ⚡ Fun fact: I love anime, manga and comics!!!
 
 
