@@ -2,7 +2,7 @@
 
 - 🌱 I’m current learning ML and QC as a beginner!
 - 👯 I’m looking to collaborate with people who are knowlegable in my domain!
-- 🥅 2021 Goals : ML indept, Quantum computing, Open source contributions, Getting a rating of 1500 On Codeforces
+- 🥅 2022 Goals : ML indept, Quantum computing, Open source contributions
 
 - 💬 Ask me about CP, DSA,  ML
 
