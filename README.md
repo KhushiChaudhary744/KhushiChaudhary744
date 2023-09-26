@@ -2,14 +2,9 @@
 
 - 🌱 I’m current learning ML and Game development as a beginner!
 - 👯 I’m looking to collaborate with people who are knowlegable in my domain!
-- 🥅 2022 Goals : ML indept, Quantum computing, Open source contributions
+- 🥅 2023 Goals : ML indept, Quantum computing
 
-- 💬 Ask me about CP, DSA,  ML
+- 💬 Ask me about  ML, QC and startups. 
 
 - ⚡ Fun fact: I love anime, manga and comics!!!
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KhushiChaudhary744&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiChaudhary744&show_icons=true&theme=synthwave))](https://github.com/anuraghazra/github-readme-stats)
-
+ 
