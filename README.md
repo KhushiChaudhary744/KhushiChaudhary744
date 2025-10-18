@@ -1,6 +1,6 @@
-## Hi, I am Khushi (she/her), a ME 4th year at IIT Goa. 👋
+## Software Engineer | Machine Learning | Full Stack | Cybersecurity Enthusiast👋
 
-- 🌱 I’m current learning ML and Game development as a beginner!
+- 🌱 Software engineer located in tokyo, japan
 - 👯 I’m looking to collaborate with people who are knowlegable in my domain!
 
 - 💬 Ask me about  ML, QC and startups. 
